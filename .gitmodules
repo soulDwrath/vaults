@@ -1,0 +1,3 @@
+[submodule "rh-deploy/lib/forge-std"]
+	path = rh-deploy/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
