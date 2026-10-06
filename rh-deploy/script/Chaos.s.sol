@@ -3,7 +3,7 @@ pragma solidity ^0.8.27;
 
 import {Script} from "forge-std/Script.sol";
 import {console} from "forge-std/console.sol";
-import {Chaos} from "src/Chaos.sol";
+import {Chaos} from "../src/Chaos.sol";
 
 contract ChaosScript is Script {
   function setUp() public {}
